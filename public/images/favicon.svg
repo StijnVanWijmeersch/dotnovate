@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFBC01;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000072243387960697257260000010219465409964321668_);}
+	.st3{fill:url(#SVGID_00000150793414864075226620000001879549722840916126_);}
+	.st4{opacity:0.5;fill:#04B4E9;}
+</style>
+<g>
+	<g>
+		<g>
+			<polygon class="st0" points="12,10.6 12,10.6 12,10.5 12,10.5 			"/>
+		</g>
+	</g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="29.196" y1="10.275" x2="11.6119" y2="30.0148">
+		<stop  offset="0" style="stop-color:#03F0BC"/>
+		<stop  offset="1" style="stop-color:#04ADEE"/>
+	</linearGradient>
+	<polygon class="st1" points="27.1,20.3 26.1,21.4 21.6,26.9 7.5,26.9 12,21.4 19,21.4 19.6,20.8 23.5,16 27,11.7 27,20.3 	"/>
+	
+		<linearGradient id="SVGID_00000080920732102194202060000010572257959781516471_" gradientUnits="userSpaceOnUse" x1="20.485" y1="2.5152" x2="2.901" y2="22.2549">
+		<stop  offset="0" style="stop-color:#03F0BC"/>
+		<stop  offset="1" style="stop-color:#04ADEE"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_00000080920732102194202060000010572257959781516471_);" points="16.5,16 12,21.4 4.9,21.4 9.4,16 
+		4.9,10.5 12,10.5 12,10.6 12,10.6 	"/>
+	
+		<linearGradient id="SVGID_00000021800155616940101510000006241785942984595893_" gradientUnits="userSpaceOnUse" x1="23.7569" y1="5.4299" x2="6.1729" y2="25.1696">
+		<stop  offset="0" style="stop-color:#03F0BC"/>
+		<stop  offset="1" style="stop-color:#04ADEE"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_00000021800155616940101510000006241785942984595893_);" points="27,11.7 27,20.3 23.5,16 23.5,16 
+		19.2,10.7 19,10.6 12,10.6 12,10.5 7.5,5.1 21.6,5.1 26.1,10.6 	"/>
+	<polygon class="st4" points="27,11.7 27,20.3 23.5,16 23.5,16 	"/>
+</g>
+</svg>
